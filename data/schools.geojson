@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "schools",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "end_leg_t": "stage", "end_leg_f": 120 }, "geometry": { "type": "Point", "coordinates": [ 20.047639436146962, 54.327641209608949 ] } },
+{ "type": "Feature", "properties": { "id": 2, "end_leg_t": "hired hand", "end_leg_f": 30 }, "geometry": { "type": "Point", "coordinates": [ 20.58677115494956, 54.198281728114154 ] } }
+]
+}
